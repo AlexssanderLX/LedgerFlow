@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LedgerFlow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d47d935d1c1e78d8194cc7239ece82bb7c6dbb94")]
 [assembly: System.Reflection.AssemblyProductAttribute("LedgerFlow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LedgerFlow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
