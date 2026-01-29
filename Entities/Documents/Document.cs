@@ -1,7 +1,7 @@
 ﻿using LedgerFlow.Entities.Enums;
 using System.Net.NetworkInformation;
 
-namespace LedgerFlow.Entities
+namespace LedgerFlow.Entities.Documents
 {
     public abstract class Document
     {
@@ -65,7 +65,7 @@ namespace LedgerFlow.Entities
             if (statusDocument != StatusDocument.Active)
                 throw new InvalidOperationException("Only Active documents can be canceled");
 
-            if ((now - CreatedAt).TotalDays < maxDaysAfterCreation)
+            if ((now - CreatedAt).TotalDays > maxDaysAfterCreation)
                 throw new InvalidOperationException($"Cannot cancel after {maxDaysAfterCreation} days");
 
             statusDocument = StatusDocument.Canceled;

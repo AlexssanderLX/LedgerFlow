@@ -1,4 +1,4 @@
-﻿namespace LedgerFlow.Entities
+﻿namespace LedgerFlow.Entities.Organizations
 {
     public class Enterprise
     {

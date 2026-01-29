@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\people\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:entities\\people\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\people\\companyclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:entities\\people\\companyclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\people\\individualclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:entities\\people\\individualclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\ledgerflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:ledgerflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\organizations\\enterprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:entities\\organizations\\enterprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\documents\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:entities\\documents\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\enums\\statusdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:entities\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\clientv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:entities\\clientv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\entities\\enterprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:entities\\enterprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -57,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|c:\\users\\alexssander\\desktop\\programa\u00E7\u00E3o\\ledgerflow\\ledgerflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{18F9CD2B-98ED-6751-0982-3AD4D98C74D8}|LedgerFlow.csproj|solutionrelative:ledgerflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,63 +78,76 @@
       "DocumentGroups": [
         {
           "DockedHeight": 520,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Views\\Shared\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Views\\Shared\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ViewImports.cshtml",
+              "DocumentIndex": 1,
+              "Title": "CompanyClients.cs",
+              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\People\\CompanyClients.cs",
+              "RelativeDocumentMoniker": "Entities\\People\\CompanyClients.cs",
+              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\People\\CompanyClients.cs",
+              "RelativeToolTip": "Entities\\People\\CompanyClients.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T09:51:43.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Document.cs",
-              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Document.cs",
-              "RelativeDocumentMoniker": "Entities\\Document.cs",
-              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Document.cs",
-              "RelativeToolTip": "Entities\\Document.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAADwv1gAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T13:13:31.862Z",
+              "WhenOpened": "2026-01-29T10:57:40.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "IndividualClients.cs",
+              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\People\\IndividualClients.cs",
+              "RelativeDocumentMoniker": "Entities\\People\\IndividualClients.cs",
+              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\People\\IndividualClients.cs",
+              "RelativeToolTip": "Entities\\People\\IndividualClients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T10:57:10.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Enterprise.cs",
-              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Enterprise.cs",
-              "RelativeDocumentMoniker": "Entities\\Enterprise.cs",
-              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Enterprise.cs",
-              "RelativeToolTip": "Entities\\Enterprise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Organizations\\Enterprise.cs",
+              "RelativeDocumentMoniker": "Entities\\Organizations\\Enterprise.cs",
+              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Organizations\\Enterprise.cs",
+              "RelativeToolTip": "Entities\\Organizations\\Enterprise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T13:26:43.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClientV1.cs",
-              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\ClientV1.cs",
-              "RelativeDocumentMoniker": "Entities\\ClientV1.cs",
-              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\ClientV1.cs",
-              "RelativeToolTip": "Entities\\ClientV1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\People\\Client.cs",
+              "RelativeDocumentMoniker": "Entities\\People\\Client.cs",
+              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\People\\Client.cs",
+              "RelativeToolTip": "Entities\\People\\Client.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T10:44:48.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Documents\\Document.cs",
+              "RelativeDocumentMoniker": "Entities\\Documents\\Document.cs",
+              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Documents\\Document.cs",
+              "RelativeToolTip": "Entities\\Documents\\Document.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwEMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:13:31.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DocumentType.cs",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Enums\\DocumentType.cs",
               "RelativeDocumentMoniker": "Entities\\Enums\\DocumentType.cs",
@@ -134,12 +155,36 @@
               "RelativeToolTip": "Entities\\Enums\\DocumentType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T13:51:01.586Z",
+              "WhenOpened": "2026-01-17T13:51:01.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LedgerFlow.csproj",
+              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\LedgerFlow.csproj",
+              "RelativeDocumentMoniker": "LedgerFlow.csproj",
+              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\LedgerFlow.csproj",
+              "RelativeToolTip": "LedgerFlow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T10:15:23.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T09:51:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StatusDocument.cs",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Enums\\StatusDocument.cs",
               "RelativeDocumentMoniker": "Entities\\Enums\\StatusDocument.cs",
@@ -147,12 +192,11 @@
               "RelativeToolTip": "Entities\\Enums\\StatusDocument.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T09:46:19.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T09:46:19.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "TaxRegime.cs",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Entities\\Enums\\TaxRegime.cs",
               "RelativeDocumentMoniker": "Entities\\Enums\\TaxRegime.cs",
@@ -160,12 +204,11 @@
               "RelativeToolTip": "Entities\\Enums\\TaxRegime.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T13:50:24.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T13:50:24.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Views\\Shared\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ViewStart.cshtml",
@@ -173,12 +216,11 @@
               "RelativeToolTip": "Views\\Shared\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T09:51:44.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T09:51:44.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -186,12 +228,11 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-28T09:51:42.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T09:51:42.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -199,12 +240,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T10:30:12.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:30:12.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Views\\Home\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Error.cshtml",
@@ -212,12 +252,11 @@
               "RelativeToolTip": "Views\\Home\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T10:37:54.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:37:54.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -225,12 +264,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T10:36:01.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:36:01.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -238,12 +276,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T09:57:49.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T09:57:49.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -252,18 +289,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T10:20:11.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LedgerFlow.csproj",
-              "DocumentMoniker": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\LedgerFlow.csproj",
-              "RelativeDocumentMoniker": "LedgerFlow.csproj",
-              "ToolTip": "C:\\Users\\Alexssander\\Desktop\\Programa\u00E7\u00E3o\\LedgerFlow\\LedgerFlow.csproj",
-              "RelativeToolTip": "LedgerFlow.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-15T10:15:23.494Z"
             }
           ]
         },
